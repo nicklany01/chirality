@@ -12,3 +12,4 @@ gerberfiles/
 *.drc
 *.rpt
 *.log
+*.lck
